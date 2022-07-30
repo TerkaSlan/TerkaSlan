@@ -1,4 +1,4 @@
-👋 Hi, I’m @TerkaSlaninakova, currently a Ph.D. candidate at Faculty of Informatics, Masaryk University, Brno, Czech Republic
+👋 Hi, I’m @TerkaSlan, currently a Ph.D. candidate at Faculty of Informatics, Masaryk University, Brno, Czech Republic
 
 ### Current projects
 1) Study of machine learning as applied to database management, specifically to similarity searching on complex data
