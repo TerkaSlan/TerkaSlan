@@ -6,8 +6,12 @@
 
 ### Publications
 
+#### 2023
+- [Reproducible experiments with Learned Metric Index Framework](https://www.sciencedirect.com/science/article/pii/S0306437923000911?via%3Dihub)
+
 #### 2022
-- coming up :)
+- [Learned Indexing in Proteins: Extended Work on Substituting Complex Distance Calculations with Embedding and Clustering Techniques](https://arxiv.org/abs/2208.08910)
+   - [also here](https://link.springer.com/chapter/10.1007/978-3-031-17849-8_22)
 
 #### 2021
 - [Learned metric index — proposition of learned indexing for unstructured data](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000326)
