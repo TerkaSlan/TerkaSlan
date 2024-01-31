@@ -4,7 +4,11 @@
 1) Study of machine learning as applied to database management, specifically to similarity searching on complex data
 2) Cooperation w/ CERIT-SC (Masaryk University) and CzechGlobe on estimation of vegetation parameters to help analyze the health of forests and crops.
 
-### Publications
+### Publications/Projects
+
+#### 2024
+- [AlphaFind](https://github.com/Coda-Research-Group/AlphaFind/)
+     - discover protein structure similarity across the entire known proteome
 
 #### 2023
 - [Reproducible experiments with Learned Metric Index Framework](https://www.sciencedirect.com/science/article/pii/S0306437923000911?via%3Dihub)
