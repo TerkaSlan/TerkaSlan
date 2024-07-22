@@ -7,8 +7,7 @@
 ### Publications/Projects
 
 #### 2024
-- [AlphaFind](https://github.com/Coda-Research-Group/AlphaFind/)
-     - discover protein structure similarity across the entire known proteome
+- [AlphaFind: discover structure similarity across the proteome in AlphaFold DB](https://doi.org/10.1093/nar/gkae397)
 
 #### 2023
 - [Reproducible experiments with Learned Metric Index Framework](https://www.sciencedirect.com/science/article/pii/S0306437923000911?via%3Dihub)
@@ -26,7 +25,7 @@ I’m interested in everything machine learning related, specifically applicatio
 If you feel like collaborating on topics related to similarity searching, complex data management, learned indexing, or any other field loosely related, hit me up :)
 
 ### Contact
-- email: `xslanin@mail.muni.cz`
+- email: `slaninakova@mail.muni.cz`
 - [LinkedIn](https://www.linkedin.com/in/ter%C3%A9zia-slanin%C3%A1kov%C3%A1-354020a8/)
 - [Scholar](https://scholar.google.com/citations?user=aVhtRH0AAAAJ&hl=sk)
 
