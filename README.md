@@ -1,10 +1,18 @@
-👋 Hi, I’m @TerkaSlan, currently a Ph.D. candidate at Faculty of Informatics, Masaryk University, Brno, Czech Republic
+👋 Hi, I’m @TerkaSlan, currently a Ph.D. candidate at Masaryk University, Brno, Czech Republic. I enjoy working on various applied research projects in AI, vector databases, semantic searching and bioinformatics tools.
 
-### Current projects
-1) Study of machine learning as applied to database management, specifically to similarity searching on complex data
-2) Cooperation w/ CERIT-SC (Masaryk University) and CzechGlobe on estimation of vegetation parameters to help analyze the health of forests and crops.
+### Projects
 
-### Publications/Projects
+#### 2026
+- [autoresearch, but with an actual prompt](https://autoresearch.dyn.cloud.e-infra.cz/)
+
+### Publications
+
+#### 2026
+- [AlphaFind v2: Similarity Search in AlphaFold DB and TED Domains across Structural Contexts](https://doi.org/10.64898/2026.03.10.710735)
+- [MolViewStories: Interactive molecular storytelling](https://doi.org/10.1002/pro.70540)
+
+#### 2025
+- [Gromacs MetaDump: a tool for extracting GROMACS simulation metadata](https://doi.org/10.1186/s13321-025-01082-5)
 
 #### 2024
 - [AlphaFind: discover structure similarity across the proteome in AlphaFold DB](https://doi.org/10.1093/nar/gkae397)
@@ -20,11 +28,9 @@
 - [Learned metric index — proposition of learned indexing for unstructured data](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000326)
 - [Data-driven learned metric index: an unsupervised approach](https://link.springer.com/chapter/10.1007/978-3-030-89657-7_7)
 
-### Interests
-I’m interested in everything machine learning related, specifically application of ML to data processing and database management.
-If you feel like collaborating on topics related to similarity searching, complex data management, learned indexing, or any other field loosely related, hit me up :)
 
 ### Contact
+- Personal page: [terkaslan.github.io](https://terkaslan.github.io/)
 - email: `slaninakova@mail.muni.cz`
 - [LinkedIn](https://www.linkedin.com/in/ter%C3%A9zia-slanin%C3%A1kov%C3%A1-354020a8/)
 - [Scholar](https://scholar.google.com/citations?user=aVhtRH0AAAAJ&hl=sk)
